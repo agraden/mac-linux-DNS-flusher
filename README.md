@@ -1,11 +1,9 @@
-# DNS cache flusher script for macOS
+# DNS cache flusher script for Unix-based systems
 
-This is an executable shell script made for macOS systems. 
+This is an executable shell script made for macOS systems and should also work in Linux. 
 
 ## Why clearing your DNS cache is good practice
-Clearing your Mac's DNS cache is an essential aspect of ensuring the stability and security of your network. As you use your device, the cache accumulates information, and over time, this information can become outdated or even corrupted.
-
-*https://support.apple.com/en-us/HT202516*
+Clearing your DNS cache is an essential aspect of ensuring the stability and security of your network. As you use your device, the cache accumulates information, and over time, this information can become outdated or even corrupted.
 
 ## If the script does not automatically run when launched
 1.  Open terminal and `cd` to the directory where the script is saved.
